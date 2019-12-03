@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00-demo/00-demo.iml" filepath="$PROJECT_DIR$/00-demo/00-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-infrastructure/01-infrastructure.iml" filepath="$PROJECT_DIR$/01-infrastructure/01-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-persistence/02-persistence.iml" filepath="$PROJECT_DIR$/02-persistence/02-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-services/03-services.iml" filepath="$PROJECT_DIR$/03-services/03-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-component/04-component.iml" filepath="$PROJECT_DIR$/04-component/04-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-domain/05-domain.iml" filepath="$PROJECT_DIR$/05-domain/05-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-web/06-web.iml" filepath="$PROJECT_DIR$/06-web/06-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-component/base-cache/base-cache.iml" filepath="$PROJECT_DIR$/04-component/base-cache/base-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-infrastructure/base-configuration/base-configuration.iml" filepath="$PROJECT_DIR$/01-infrastructure/base-configuration/base-configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-infrastructure/base-context/base-context.iml" filepath="$PROJECT_DIR$/01-infrastructure/base-context/base-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-infrastructure/base-core/base-core.iml" filepath="$PROJECT_DIR$/01-infrastructure/base-core/base-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-persistence/base-dao-datasource/base-dao-datasource.iml" filepath="$PROJECT_DIR$/02-persistence/base-dao-datasource/base-dao-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-persistence/base-dao-hibernate/base-dao-hibernate.iml" filepath="$PROJECT_DIR$/02-persistence/base-dao-hibernate/base-dao-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-persistence/base-dao-liteorm/base-dao-liteorm.iml" filepath="$PROJECT_DIR$/02-persistence/base-dao-liteorm/base-dao-liteorm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-framework.iml" filepath="$PROJECT_DIR$/base-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-infrastructure/base-maven/base-maven.iml" filepath="$PROJECT_DIR$/01-infrastructure/base-maven/base-maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-domain/base-model/base-model.iml" filepath="$PROJECT_DIR$/05-domain/base-model/base-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-services/base-service-crud/base-service-crud.iml" filepath="$PROJECT_DIR$/03-services/base-service-crud/base-service-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-infrastructure/base-shiro/base-shiro.iml" filepath="$PROJECT_DIR$/01-infrastructure/base-shiro/base-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-web/base-web/base-web.iml" filepath="$PROJECT_DIR$/06-web/base-web/base-web.iml" />
+    </modules>
+  </component>
+</project>
