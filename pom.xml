@@ -55,7 +55,7 @@
         <jaxws-api.version>2.0</jaxws-api.version>
         <rabbitmq.client.version>3.6.2</rabbitmq.client.version>
         <hession.version>4.0.38</hession.version>
-        <spring.rabbitmq.version>1.6.0.RELEASE</spring.rabbitmq.version>
+        <spring.rabbitmq.version>2.2.1.RELEASE</spring.rabbitmq.version>
         <spring.erlang.lang>1.4.6.RELEASE</spring.erlang.lang>
         <scala.version>2.11.7</scala.version>
         <spark.version>1.6.2</spark.version>
