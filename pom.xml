@@ -46,7 +46,7 @@
         <aspectj.weaver>1.8.5</aspectj.weaver>
         <cglib.nodep>2.2</cglib.nodep>
         <shiro.version>1.2.4</shiro.version>
-        <mysql.connector.version>5.1.35</mysql.connector.version>
+        <mysql.connector.version>8.0.16</mysql.connector.version>
         <dubbo.version>2.5.8</dubbo.version>
         <testng.version>6.3.1</testng.version>
         <logback.version>1.1.2</logback.version>
