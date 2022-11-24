@@ -33,7 +33,7 @@
         <zookeeper.version>3.4.6</zookeeper.version>
         <curator.version>1.3.2</curator.version>
         <dbcp.version>1.4</dbcp.version>
-        <hibernate.version>4.3.9.Final</hibernate.version>
+        <hibernate.version>5.3.20.Final</hibernate.version>
         <hibernate.validator>4.1.0.Final</hibernate.validator>
         <javax.validation.version>1.0.0.GA</javax.validation.version>
         <commons.logging.version>1.2</commons.logging.version>
